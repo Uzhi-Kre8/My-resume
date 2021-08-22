@@ -1,2 +1,3 @@
 # My-resume
-My first HNG task
+Find my first responsive resumé here
+https://gracious-lewin-7dfb36.netlify.app/
